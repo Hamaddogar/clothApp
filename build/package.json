@@ -1,0 +1,20 @@
+{
+    "app_name": "build",
+    "main": "index.html",
+    "name": "build",
+    "webexe_settings": {
+        "download_dir": "",
+        "force_download": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.39.0",
+        "sdk_build": true,
+        "uncompressed_folder": false,
+        "windows-x32": false,
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "id": "build",
+        "title": "build"
+    }
+}

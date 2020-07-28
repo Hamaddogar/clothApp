@@ -1,0 +1,49 @@
+.paper-heading{
+    padding: 10px;
+    width: 100%;
+}
+.select-inputs{
+    margin: 10px;
+    display: inline-flex;
+    width: 130px;
+}
+.select-add{
+    margin: 10px;
+    display: inline-flex;
+}
+
+.inline{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto !important;
+    top: 15%;
+
+}
+.menu{
+    display: inline-block;
+}
+.delete-button-div{
+    display: inline-block;
+}
+.table-dialogContent{
+    min-height: 410px;
+}
+.typo-heading-table{
+    color: black;
+}
+.amount-section{
+    color: black;
+    font-size: 1rem !important;
+    font-weight: bold !important;
+}
+@media print {
+    .printable {
+       height: 1000px;
+       width: 1000px;
+    }
+    .select-inputs,.action-button,.select-add,.delete-button-div,#responsive-dialog-title,.ordered-table {
+        display: none;
+    }
+}

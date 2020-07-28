@@ -1,0 +1,236 @@
+.main-alert-div{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.bold{
+  font-weight:bold;
+}
+
+.color-box{
+  display: inline-block;
+  width:23px;
+  height: 10px;
+}
+.color-row td:hover{
+ background-color:  rgba(224, 224, 224, 1);
+ cursor: pointer;
+}
+
+td.padd-left{
+  padding-left: 5px !important;
+}
+
+.height-10{
+  height:20px !important;
+}
+
+.color-preview + .def-btn{
+  margin-left: 10px;
+}
+
+.color-preview{
+  width:20px;
+  height:10px;
+  background-color: #f13f3f;
+  position: relative;
+  top: 19px;
+  margin-left: -25px;
+}
+
+.def-btn{
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+
+
+.padding-10{
+  padding: 10px;
+}
+
+.no-padding{
+padding: 0 !important;
+}
+
+.color-paletter-box{
+  position: absolute;
+  background-color: white;
+  width: 90vw;
+  padding: 10px;
+  height: 90vh;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 100%;
+  z-index: 10;
+}
+
+
+.alert-paper{
+  padding: 20px;
+  background-color: brown !important;
+}
+.cLogo img{
+  border-radius: 20px;
+}
+
+.flex{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.selected{
+ box-shadow: 0px 0px 16px 9px #f8c28c
+}
+
+.nestedRootHeader{
+  background: #f9c38d;
+  border-top-left-radius:10px;
+}
+
+.relative{
+  position: relative;
+}
+
+.nestedHeader{
+  background-color: bisque;
+}
+
+.custHeader{
+  background-color: rgb(202, 6, 75) !important;
+  padding: 0; 
+  color: white !important;
+}
+.custHeader p{
+padding-left: 6px;
+padding-top: 5px;
+font-weight: bold;
+font-size: 1em;
+
+}
+
+.customizedList.brand-type li{
+  
+  background-color:  gainsboro;
+}
+
+.customizedList li{
+  width: 330px;
+  box-shadow: 0px 0px 55px -13px black;
+  border-bottom: 1px solid red;
+  margin: 2px;
+  background-color:  #fdf2ff;
+}
+
+.barCodeIcon{
+width: 50px;
+height: 45px;
+}
+
+.hover-effect{  
+  cursor:pointer;
+}
+
+.hover-effect:hover{
+  opacity:0.7;
+}
+
+.text-black{
+  color:black !important;
+}
+
+.ml-10{
+  margin-left:10px !important;
+}
+
+.react-confirm-alert-overlay{
+  z-index:100000000;
+}
+
+.btn-adjust-top{
+    position: relative;
+    top: 40px;
+}
+
+.add-btn-adjusted{
+position: relative;
+left: 130px;
+top: 15px;
+}
+
+
+.loadingGIF{
+  position: absolute;
+    z-index: 100000;
+    width: 200px;
+    height: 200px;
+    left: calc(50% - 100px);
+    top: calc(50% - 100px);
+}
+
+.inProcessContainer{
+  width: 100%;
+  height:100%;
+  position: absolute;
+  top:0;
+  left:0%;
+  background-color: white;
+    z-index: 10000;
+    opacity: 0.8;
+}
+
+
+
+.mr-10{
+  margin-right:5px !important;
+}
+
+
+.some{
+    background-color: #db2e30;
+    color: white;
+    font-weight: bold;
+}
+  
+.cLogo{
+  position: absolute;
+    width: 250px;
+    margin-left: 0;
+    margin-right: 0;
+    left: 2vw;
+    text-align: center;
+    top: 1vh;
+}
+.mLogo img, .cLogo img{
+  width:100%;
+}
+
+.mLogo{
+  width: 118px;
+    background-color: white;
+    position: absolute;
+    bottom: 2vh;
+    left: 2vw;
+    padding: 10px;
+    font-size: 0.8em; 
+}
+
+.typo{
+  color: whitesmoke !important;
+}
+.icon{
+  position: relative !important;
+  top: 3px !important;
+}

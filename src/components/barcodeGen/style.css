@@ -1,0 +1,54 @@
+ /* .reciept-print{
+   width: 4.65in;
+   height:6in
+
+} */
+/*
+.reciept-print strong{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.reciept-print h3{
+    font-weight: bold;
+}
+
+.reciept-print .row{
+    margin-left: 0;
+    margin-right: 0;
+} */
+/* .reciept-print svg{
+    text-align: center;
+    margin-left: 40px;
+     margin-top: 35px 
+
+} */
+
+
+
+.table-hover th,.table-hover td{
+    /* margin-left: 60px;
+    margin-right: 60px; */
+}
+/* .text-center{
+    text-align: center !important;
+} */
+@media print {
+
+    @page {
+    /* height:fit-content !important; */
+        margin: 0;
+        size: 1.97in 0.97in;
+    }
+
+
+    .reciept-print{
+        /* text-align: center; */
+        /* margin-left:20px; */
+        text-transform: uppercase;
+        /* color:black; */
+        /* font-weight: bold; */
+        display: block !important;
+        /* background-color: red; */
+    }
+}

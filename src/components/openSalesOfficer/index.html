@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <script>
+        
+        let data = {
+            color:{
+                name:"blue"
+            }
+        }
+        
+
+        let c = getProp(data, "color.name");
+        
+        function getProp(obj, name){    
+
+            let item = name.split('.');
+
+            for(let prop of item){
+                obj = obj[prop];
+            }
+            
+            return obj;
+        }
+
+    </script>
+
+</head>
+<body>
+    
+</body>
+</html>

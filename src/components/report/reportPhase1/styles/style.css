@@ -1,0 +1,45 @@
+.paper-heading{
+    padding: 10px;
+}
+.select-inputs{
+    margin: 10px;
+    display: inline-flex;
+    width: 120px;
+}
+.select-add{
+    margin: 10px;
+    display: inline-flex;
+}
+
+.inline{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto !important;
+    top: 15%;
+
+}
+.menu{
+    display: inline-block;
+}
+.delete-button-div{
+    display: inline-block;
+}
+.heading-main{
+    width: 40vw;
+    margin: auto;
+}
+.clickable:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+@media print {
+    .printable {
+       height: 1000px;
+       width: 1000px;
+    }
+    .select-inputs,.action-button,.select-add,.delete-button-div {
+        display: none;
+    }
+}

@@ -1,0 +1,191 @@
+.hall-IMG-SET .hall-bk{
+    width:75%;
+}
+
+.user-title{
+    text-align: right;
+    color: white;
+    padding: 24px;
+}
+
+.hall-label{
+    position: relative;
+    font-weight: 400;
+    top: -18px;
+}
+.hall-name{
+    position: relative;
+    top:3px;
+}
+
+.close-bl{
+    
+    position: absolute !important;
+    bottom: 20px;
+    right: 10px;
+}
+
+.all-tables-container .table span{
+    top:-47px;
+}
+
+.all-tables-container .table{
+    width:58px;
+}
+
+.a-tables-container .all-tables-container{
+display: flex;
+flex-wrap: wrap;
+
+}
+.a-tables-container{
+    top:2vh;
+position: absolute;
+width: 100%;
+height: 100%;
+background-color: black;
+z-index: 10;
+}
+
+
+.tables-container{
+    display: flex;
+    position: absolute;
+    top: 21%;
+    left: 20%;
+    width: 63%;
+    height: 55%;
+
+    padding: 4%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.table-filled{
+    background-color: rgba(189, 245, 179, 0.6);
+}
+
+.table img{
+    width:100%;
+}
+
+.table span{
+    color: black;
+    position: relative;
+    top: -42px;
+    font-weight: bold;
+}
+
+.table{
+    margin:8px;
+    width:60px;
+    height:60px;
+    border-radius: 5px;
+}
+.simple-table{
+    box-shadow:2px 2px 34px 12px black;
+}
+.selected-table{
+    box-shadow: 0px 0px 0px 4px white;
+}
+
+.table-selected{
+    background-color: white;
+}
+
+.hall-IMG-SET{
+    position: relative;
+    text-align: center;
+    min-width: 1190px;
+}
+
+.bill-estimation{
+    color:black;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+
+.estimation-tabe img{
+    width:95%;
+}
+
+div.estimation-tabe{
+    background-color: #333333;
+    text-align: center;
+    box-shadow: none;
+    border-radius: 0;
+
+}
+
+.controls-panel{
+    position: relative;
+    margin-top: -92px;
+}
+
+.st-btn:hover{
+    opacity:0.9;
+    position: relative;
+    top:2px;
+}
+
+.cbtn:hover{
+    opacity: 0.8;        
+}
+
+.cbtn{
+    cursor: pointer;    
+}
+
+.st-btn{
+    cursor: pointer;
+    width: 75px;
+}
+
+.main-hall-title{
+    position: relative;
+    top: 3vw;    
+    font-weight: bold;
+    line-height: 0;
+    text-transform: uppercase;
+    text-shadow: 2px 4px 35px #e4ff00;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.side-options{
+    width:90px;
+    position: fixed;
+    left: 0px;
+    top: 15%;
+    display: inline-block;
+    border: 3px solid black;
+    border-right: none;
+    background-color: #212121
+
+}
+
+.add-table-background{
+    background: rgb(48, 0, 0);
+    box-shadow: 0px 0px 0px 4px black;
+}
+.add-table-background span {
+    top: -42px;
+    right: -21px;
+}
+.store-background{
+    background:  white;    
+}
+.not-exist{
+    box-shadow: 0px 0px 0px 4px black;
+}
+.data-exist{
+    box-shadow: 0px 0px 0px 4px white;
+}
+@media print {
+    .club-page {display:none;}
+}

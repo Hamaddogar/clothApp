@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bankapp-202209",
+  "private_key_id": "b038952227abb495033c14e0e7c83ede3ab0cf3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7Gd9dLiRgVVXU\n183gawsx08S5u7SBDHbTQWqtN6nAFfynDXipDu4sPiNga5BihTnX+/9faLBL1sJs\n3C+TGG6136B1yjbqaTlgzr4H0KDSZQ9jvu9IWHUgQaB0K/pfCEjloQqpb48NMKNB\nf/fZALYZ7JtcxEBsORmnv1bsJ0Luwn7iwqCF3BnUuyBUTeTezHZefyYOhsFugzd7\njJWT2hKx6K3WFVQ7nPwRx4kQuTszbNbewv/W5NCya7Yx86rQHrbUCnN2QVecrFl6\nhItQ0UhP3au7FlSNbeGRD/DwXmjkp9ZovrKK+iq7sk1dEeMOyUSzRiKg339IxTvW\nKL0crRspAgMBAAECggEAWwFhoMwhy22WexmgvQi0AD92D7VaPe7XGThXb/uEKLdJ\nFeQ6jViCxqhOwsZvC0yr7v9WnoyoO6sxFIwg49Zdez9TqBd8kJYv34OP8PMsVknr\nq2Oitbi498CUEA2YEYNRGcg0DGgD17GRpvlcj4OGD6QDiaK3hyxa6znpSKJsLv87\nq9VJqoUfDFcQb3jirdiaiMNrDeLVrX9b2yduo1lrJkEmp6qG8b3KfLRYpLtl1e8H\nFsCLbxkNPSeU6rxilAWaV8cfzQLA3pw3zZ9PE2p9LVbP1745XXhfIsujvNBaX2oC\nIDmsbxkXUnO5PvBYXmZ5JVPbOnuDFbpbBxsBhl/JJQKBgQDwVeKyNso5hiVe6yk4\nky3ydqv/43LmAXC9vbFpPFwKlTBArmzSCCRl+tdfLh0apG6K1oRo7Aw6a5p42/hb\niAhs3Y7HYHPbRj3VNl9M94XXoYfO7bJJQM9rl3yO2ehxkSv0A5r9wNOvsRkLIT3K\nhDs7jGchjON1aiXLxf/e1YmxzwKBgQDHS76ln34epZtIVUGZWD3QAM0acuP268yK\nN4NyF3QmU7KEMmsLIA31Z2zCfsMCEhs9dTv+enEtyQwfEKH4xyA8edcbZmNTnDQE\nOSqYM0vOCH+ASEEoPKnsjq/It/X6Br70LnulnwU0kv6cV79A15ih0fwclMDpJmIT\nalJqOIL5hwKBgQDWAzTei6middEbZ/8J8Q3ORly9fdXX+Vpiq+OqmWRAzD7uqiQf\nF78JzMgyaobiLaB+I64/HEt7Tkx86SyMnWMbRmQZKMuibDctgMB2ckgODzo3SzUi\nxAKwhXIWZvb1AlgIb5l581bNsb9iSNSUXRG94jYIC0SVTtOfVI6X6ME3wwKBgAD8\nOuEOvMzh/LaK1Vwwt32Dw3/R+ZaK6+PzCk9SFlzqJQPKTAUuD2ObM0py3fvwovnW\nzokfide0Gr88kdBtC5fA8nNMOkl7iDZNIgzGlCVcnWTA9rGAO0bUHcJcRncJ+X+z\niyDyfFAaOfAD7wofBr4mD50Ejz+X1PxLlkS4Ks2ZAoGBAKXw8DC/gncaPtuvdY7a\n8ABSxKo1Rbz+CBf6wKrRSiJVXEUhIa2zKlCaY72FLD5rDjR9/nsD/x1Ds+aOzb55\nQVzTiTDSQFht2NnBxntF7EOgmgjzcIASGdIxZvWIHX1glFYuePqODo5NPC+615gb\niAE7+MPli9LEApIldLD4OR87\n-----END PRIVATE KEY-----\n",
+  "client_email": "manibai@bankapp-202209.iam.gserviceaccount.com",
+  "client_id": "117683080377878906580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manibai%40bankapp-202209.iam.gserviceaccount.com"
+}

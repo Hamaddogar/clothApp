@@ -1,0 +1,81 @@
+.paper-heading{
+    padding: 10px;
+}
+.select-inputs{
+    margin: 10px;
+    display: inline-flex;
+    width: 120px;
+}
+
+.strong{
+    font-weight: bold !important;
+}
+
+.det-table-name{
+    background-color: cornsilk;
+    font-weight: bold;
+}
+
+.select-add{
+    margin: 10px;
+    display: inline-flex;
+}
+
+.inline{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto !important;
+    top: 15%;
+
+}
+
+.tb-special-value{
+    width:190px !important;
+}
+.menu{
+    display: inline-block;
+}
+.delete-button-div{
+    display: inline-block;
+}
+.report-phase2-main-div{
+    text-align: center;
+}
+.main-dialogue{
+    min-height: 400px;
+}
+
+.bg-rcpt-total{
+    background-color: #cbd4d4;
+}
+.date-picker-div{
+    display: inline-block;
+    width: 105px;
+}
+.heading-main{
+    width: 40vw;
+    margin: auto;
+}
+.clickable:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.halls-section{
+    font-size: 1rem !important;
+    color: black;
+}
+.total-section{
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+}
+@media print {
+    .printable {
+       height: 1000px;
+       width: 1000px;
+    }
+    .select-inputs,.action-button,.select-add,.delete-button-div {
+        display: none;
+    }
+}
