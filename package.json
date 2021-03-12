@@ -17,7 +17,7 @@
         "fs": "0.0.1-security",
         "html2canvas": "1.0.0-alpha.12",
         "jsbarcode": "^3.11.0",
-        "jspdf": "^1.5.3",
+        "jspdf": "^2.3.1",
         "nw": "^0.39.0",
         "path-__dirname": "^2.1.0",
         "react": "^16.8.2",
